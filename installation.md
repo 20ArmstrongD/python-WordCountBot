@@ -54,6 +54,9 @@ After you have copied the script run it, and then move over to discord and see t
 **IMPORTANT**
 Make sure that the bot has the correct permissions inside the specific text channel in order for it to work properly.
 
+**Optional**
+i put the text files the bot creates into a folder called Data_Storage(its ignored in my git ignore) but can be used to make the repo a bit more organized.
+
 **Now you are done**
 now the bot should be working properly and you should be good to go.
 If you have any questions please feel free to message me with any you have and ill do my best to help you.
