@@ -37,10 +37,10 @@ To install the necessary dependencies, follow these steps:
 
 ## Creating the bot
 
-1. **go to the [Discord Developer Portal](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discord.com/developers/applications&ved=2ahUKEwj6zv-Xs7OFAxXehIkEHQDXBwQQFnoECBcQAQ&usg=AOvVaw1wrZe_Tr9Sav0Zx4-42-Jf) and create your bot**:
+1. **Go to the [Discord Developer Portal](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discord.com/developers/applications&ved=2ahUKEwj6zv-Xs7OFAxXehIkEHQDXBwQQFnoECBcQAQ&usg=AOvVaw1wrZe_Tr9Sav0Zx4-42-Jf) and create your bot**:
 From this you create the bot name amongst othe things feel free to look around
 
-2. **get bot token**
+2. **Get bot token**
 After you have created your bot you should go to the Bot section and click the reset bot token and then copy that and place it inside your .env file in your repository.
 
 3. **Set the bot permission using the url generator with the bot permission for the desired functionality of the bot**
