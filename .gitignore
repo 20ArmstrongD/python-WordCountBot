@@ -1,3 +1,2 @@
 .env
-word_count_data.txt
-user_word_count_data.txt
+Data_Storage/*.txt
